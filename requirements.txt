@@ -1,0 +1,7 @@
+# Sales Analytics System Requirements
+# ----------------------------------
+# This project uses only Python standard libraries.
+# No external dependencies are required.
+
+# Python version
+python>=3.8
